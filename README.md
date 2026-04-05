@@ -1,8 +1,4 @@
-# Stock-Market-Sentiment-Price-Impact-Analyzer
 
-Here is a professional, highly scannable `README.md` file crafted from your project report. It is structured to highlight your rigorous methodology, econometric modeling, and quantitative results, making it perfect for data science and quantitative finance portfolios.
-
----
 
 # Stock Market Sentiment & Price Impact Analyzer
 
@@ -58,7 +54,7 @@ To test the effect of sentiment and event-day shocks, the following GARCH-family
 * **ARIMAX:** Used to forecast short-term returns using past returns, NLP sentiment, and event dummies.
 * **Random Forest Regression:** Deployed as a machine-learning benchmark to predict next-day volatility and capture non-linear relationships.
 
-## 📈 Key Findings & Results
+##  Key Findings & Results
 
 The empirical results indicate that volatilities are highly concentrated along event dates, with intense reactions surrounding unexpected or negative exits. Interestingly, while the events themselves cause massive volatility, the NLP sentiment of the surrounding news did not show a statistically significant impact on the variance equation.
 
